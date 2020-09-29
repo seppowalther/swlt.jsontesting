@@ -8,6 +8,7 @@
     },
     {
       "type": "Control",
+      "label": true,
       "scope": "#/properties/name"
     },
     {
